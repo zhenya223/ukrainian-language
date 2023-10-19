@@ -1,0 +1,50 @@
+h1{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
+p{
+    font-size: 36px;
+}
+body{
+    background-color: #72B3A9;
+}
+img{
+    height: 200px;
+    width: 300px;
+}
+a{
+    text-decoration: none;
+    border: 3px solid #1f055;
+    border-radius: 10px;;
+    background-color: #3C7175;
+    color: white;
+    padding: 20px;
+    width: 100px;
+
+    text-align: center;
+    font-size: 20px;
+}
+header{
+    height: 20%;
+    background-color: #3C7175;
+    margin: 10px;
+}
+main{
+    display: flex;
+    justify-content: space-around;
+    height: 70%;
+    background-color: #3C7175;
+    margin: 10px;
+}
+footer{
+    height: 10%;
+    background-color: #3C7175;
+    margin: 10px;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+}
+.name{color:aquamarine}
+a:hover{background-color: blue;}

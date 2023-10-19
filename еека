@@ -1,0 +1,50 @@
+<html>
+<head>
+<link rel="stylesheet" href="style.scss">
+<title>Моя сторінка</title>
+</head>
+<body>
+<header>
+<h1>
+Українська мова
+</h1>
+<nav>
+    <a href="index.html">Головна</a>
+    <a href="index2.html">Іменник</a>
+    <a href="index3.html">Прикметник</a>
+</nav>
+</header>
+<main>
+    <div>
+        <p>
+            Іменник
+        </p>
+        <img src="1.jpg">
+        <p> Означення</p>
+    </div>
+
+    <div>
+
+    </div>
+    <p>
+        Назва фігури
+    </p>
+    <img src="1.jpg">
+    <p> Означення</p>
+</div>
+
+<div>
+    <p>
+        Назва фігури
+    </p>
+    <img src="1.jpg">
+    <p> Означення</p>
+</div>
+</main>
+<foter>
+
+    <p class="name"> Машталер Євгенії </p>
+</foter>
+
+</body>
+</html>
